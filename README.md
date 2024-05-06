@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Murat Yaldırak</h1>
 <h3 align="center">I am a computer engineering student at Firat University</h3>
 
-- 🔭 I’m currently working on **c# ,WEB API**
+- 🔭 I’m currently working on **C# ,WEB API**
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **.NET , MySQL**
 
 - 📫 How to reach me **alimurat.ali62@gmail.com**
 
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratali003&show_icons=true&locale=en" alt="muratali003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muratali003&" alt="muratali003" /></p>
-
