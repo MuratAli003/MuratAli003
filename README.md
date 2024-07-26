@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Murat YALDIRAK</h1>
-<h3 align="center">A passionate frontend developer fromI am a computer engineering student at Firat University India</h3>
+<h3 align="center">I am a computer engineering student at Firat University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratali003&label=Profile%20views&color=0e75b6&style=flat" alt="muratali003" /> </p>
 
