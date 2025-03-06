@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratali003&label=Profile%20views&color=0e75b6&style=flat" alt="muratali003" /> </p>
 
-- 🔭 I’m currently working on **Data Structure**
+- 🔭 I’m currently working on **ASP.NET Core**
 
 - 🌱 I’m currently learning **Python**
 
